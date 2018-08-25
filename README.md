@@ -35,3 +35,6 @@ Also, I try not to only cover the most famous and common papers; why should we l
 26. Light-Head R_CNN: https://arxiv.org/abs/1711.07264
 27. Perceptual GAN: https://arxiv.org/pdf/1706.05274.pdf
 28. Revisiting RCNN: On Awakening the Classification Power of Faster RCNN: https://arxiv.org/pdf/1803.06799.pdf
+
+### Miscellaneous
+1. Face-MagNet: https://arxiv.org/pdf/1803.05258.pdf
