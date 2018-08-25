@@ -1,8 +1,10 @@
 # Object-Detection-Papers
 ## Background
-Since I am currently working on Computer Vision-related projects, particularly object detection, I find myself reading a lot of papers. Hence, I would like to come up with a list of papers on object detection that I have come across (not necessarily read). The list is by no means exhaustive. In fact, it is probably quite limited in scope. For one thing, it does not cover papers that tackle specific applications of object detection i.e. detecting skin lesions. While there are definitely a thing or two one can learn from these papers, including them would basically mean becoming Google.
+Since I am currently working on Computer Vision-related projects, particularly object detection, I find myself reading a lot of papers. Hence, I would like to come up with a list of papers on object detection that I have come across (not necessarily read). The list is by no means exhaustive. In fact, it is probably quite limited in scope. For one thing, the main list does not cover papers that tackle specific applications of object detection i.e. detecting skin lesions. While there are definitely a thing or two one can learn from these papers, including all of them would basically mean becoming Google. 
 
-Also, I try to not only cover the most famous and common papers; why should we limit our reading only to well-known publications? The list is not ordered in any particular way. Please feel free to add more if you find more papers, or if there any other updates.
+Despite saying that, however, I find certain application papers to be quite interesting - or at least sound interesting - and so have placed some under miscellaneous.  
+
+Also, I try not to only cover the most famous and common papers; why should we limit our reading only to well-known publications? The list is not ordered in any particular way. Please feel free to add more if you find more papers, or if there any other updates.
 
 ### List of Papers
 1. Single-Shot MultiBox Detector: https://arxiv.org/abs/1512.02325
